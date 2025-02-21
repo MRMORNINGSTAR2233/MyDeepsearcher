@@ -1,0 +1,33 @@
+{
+  "name": "mydeepsearcher",
+  "version": "1.0.0",
+  "description": "Custom deeprsearcher",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MRMORNINGSTAR2233/MyDeepsearcher.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MRMORNINGSTAR2233/MyDeepsearcher/issues"
+  },
+  "homepage": "https://github.com/MRMORNINGSTAR2233/MyDeepsearcher#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.3"
+  },
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "langchain": "^0.3.19",
+    "node-cache": "^5.1.2",
+    "socket.io": "^4.8.1",
+    "winston": "^3.17.0"
+  }
+}
